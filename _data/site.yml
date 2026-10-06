@@ -1,0 +1,64 @@
+brand-logo-text: "K Collections Perfumes"
+nav:
+  # - slugid: 1
+  #   text: Products
+  #   link:
+  #   isDropDown: true
+  #   subMenu:
+  #     - text: AI Productivity Tool
+  #       link: /
+  #       desc: Chat with your tasks to plan your work
+  #     - text: Employee Analytics
+  #       link: /employee-analytics/
+  #       desc: Actionable insights for your high-performing team
+
+  - slugid: 2
+    text: Learn More
+    link:
+    isDropDown: true
+    subMenu:
+      - text: How it Works
+        link: /how-it-works/
+        desc: Discover how Telemore seamlessly integrates with your device to provide actionable insights and optimize productivity
+      - text: Security & Privacy
+        link: /security/
+        desc: Learn how Telemore ensures your data stays secure while maintaining transparency and privacy
+      - text: FAQs
+        link: /faq/
+        desc: Find answers to commonly asked questions about Telemore’s features, functionality, and setup process
+    
+  - slugid: 3
+    text: Pricing
+    link: /pricing/
+    isDropDown:
+  - slugid: 4
+    text: Blog
+    link: /blogs/
+    isDropDown:
+  - slugid: 5
+    text: Contact Us
+    link: /contact-us/
+    isDropDown:
+  - slugid: 6
+    text: User Guide
+    link: https://docs.telemore.ai
+    isDropDown:
+
+footer-text: Copyright © 2025
+footer-policy: Privacy Policy
+footer-policy-link: /privacy/
+footer-tos: Terms of Service
+footer-tos-link: /terms/
+footer-social-media:
+  - icon: "fa-tiktok"
+    link: https://www.tiktok.com/@telemore_ai
+  - icon: "fa-linkedin"
+    link: https://www.linkedin.com/company/telemore/
+  - icon: "fa-instagram"
+    link: https://www.instagram.com/telemore_ai/
+  - icon: "fa-youtube"
+    link: https://www.youtube.com/@TelemoreAI
+
+
+
+    
